@@ -75,6 +75,8 @@ Before running the tool, ensure you have the following installed and configured:
 ```bash
    python security_tool.py --keyword meest --threads 8
 ```
+<img width="646" alt="зображення" src="https://github.com/user-attachments/assets/4fe3bea0-bcbf-4ee2-b561-382965a6dc65" />
+
 After running the command, you will see a list of matching packages. Enter the number corresponding to the package you want to analyze. The tool will then pull, decompile, scan the APK, and generate a report with its findings.
 
 ## Feel free to create pull requests to adjust RegExp with your findings
