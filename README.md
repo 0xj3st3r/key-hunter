@@ -1,4 +1,4 @@
-# key-hunte - Android Security Research Tool
+# key-hunter - Android Security Research Tool
 
 This tool automates the process of searching for sensitive keys and tokens in Android APKs by:
 
